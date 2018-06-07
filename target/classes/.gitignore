@@ -1,1 +1,5 @@
 /mqtt/
+/zeromq/
+/utils/
+/server/
+*.gitignore
